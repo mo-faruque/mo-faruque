@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 About Me
 
-I am currently pursuing my **PhD in Electrical and Computer Engineering**. My research focuses on **Hardware Security and Trust**, where I strive to develop secure and reliable hardware systems that protect data integrity and confidentiality.
+My research focuses on **Hardware Security and Trust**, where I strive to develop secure and reliable hardware systems that protect data integrity and confidentiality.
 
 ---
 
